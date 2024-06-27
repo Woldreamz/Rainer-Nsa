@@ -292,7 +292,7 @@ import {
       id: "3",
       title: "Telegram",
       iconUrl: telegram,
-      url: "#",
+      url: "https://t.me/woldreamz",
     },
     {
       id: "4",
