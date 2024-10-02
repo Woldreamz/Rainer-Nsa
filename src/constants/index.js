@@ -205,7 +205,7 @@ import {
     {
       name: "Krypto",
       description:
-        "Web-based platform that allows users to search, book, and manage gym sessions from various providers, providing a convenient and efficient solution for fitness and health needs.",  
+        "Web-based platform that allows users to engage with the crypto world, Using Web 3.0 methodologies, Solidity and Metamask producing a Web 3.0 Application - from start to finish.",
       tags: [
         {
           name: "nextjs",
@@ -221,7 +221,7 @@ import {
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/Woldreamz/City-of-God",
+      source_code_link: "https://github.com/Woldreamz/Krypto.git",
     },
     {
       name: "House Hunter",
@@ -245,7 +245,7 @@ import {
       source_code_link: "https://github.com/Woldreamz/HouseHunter",
     },
     {
-      name: "Draycore",
+      name: "Cerebro",
       description:
         "A comprehensive versatile web application for the sale of software services to the general public. it presents an accessible platform for software solutions catering to diverse user needs.",
       tags: [
@@ -263,7 +263,7 @@ import {
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/Woldreamz/3D-Wol-Web",
+      source_code_link: "https://github.com/Woldreamz/Cerebro.git",
     },
   ];
   
